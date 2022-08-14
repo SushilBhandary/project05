@@ -6,10 +6,10 @@ The website focuses on implementing the basics of HTML and CSS to create this We
 
 ### Things I learned
 
-- position
+- position 
 - background-image
 
-## [Live Preview](https://project04-silk.vercel.app/)
+## [Live Preview](https://project005.vercel.app/)
 
 ### SnapShot of the Webpage
 
